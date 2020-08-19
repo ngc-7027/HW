@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HW_Random_Generator/1.0.0": {
+        "runtime": {
+          "HW_Random_Generator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HW_Random_Generator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

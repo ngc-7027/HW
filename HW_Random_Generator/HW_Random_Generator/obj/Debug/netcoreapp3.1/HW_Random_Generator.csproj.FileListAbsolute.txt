@@ -1,0 +1,13 @@
+C:\Projekty\HW\HW_Random_Generator\HW_Random_Generator\bin\Debug\netcoreapp3.1\HW_Random_Generator.exe
+C:\Projekty\HW\HW_Random_Generator\HW_Random_Generator\bin\Debug\netcoreapp3.1\HW_Random_Generator.deps.json
+C:\Projekty\HW\HW_Random_Generator\HW_Random_Generator\bin\Debug\netcoreapp3.1\HW_Random_Generator.runtimeconfig.json
+C:\Projekty\HW\HW_Random_Generator\HW_Random_Generator\bin\Debug\netcoreapp3.1\HW_Random_Generator.runtimeconfig.dev.json
+C:\Projekty\HW\HW_Random_Generator\HW_Random_Generator\bin\Debug\netcoreapp3.1\HW_Random_Generator.dll
+C:\Projekty\HW\HW_Random_Generator\HW_Random_Generator\bin\Debug\netcoreapp3.1\HW_Random_Generator.pdb
+C:\Projekty\HW\HW_Random_Generator\HW_Random_Generator\obj\Debug\netcoreapp3.1\HW_Random_Generator.csprojAssemblyReference.cache
+C:\Projekty\HW\HW_Random_Generator\HW_Random_Generator\obj\Debug\netcoreapp3.1\HW_Random_Generator.AssemblyInfoInputs.cache
+C:\Projekty\HW\HW_Random_Generator\HW_Random_Generator\obj\Debug\netcoreapp3.1\HW_Random_Generator.AssemblyInfo.cs
+C:\Projekty\HW\HW_Random_Generator\HW_Random_Generator\obj\Debug\netcoreapp3.1\HW_Random_Generator.csproj.CoreCompileInputs.cache
+C:\Projekty\HW\HW_Random_Generator\HW_Random_Generator\obj\Debug\netcoreapp3.1\HW_Random_Generator.dll
+C:\Projekty\HW\HW_Random_Generator\HW_Random_Generator\obj\Debug\netcoreapp3.1\HW_Random_Generator.pdb
+C:\Projekty\HW\HW_Random_Generator\HW_Random_Generator\obj\Debug\netcoreapp3.1\HW_Random_Generator.genruntimeconfig.cache
