@@ -1,0 +1,13 @@
+C:\Projekty\HW_Money_Wallet\HW_Money_Wallet\bin\Debug\netcoreapp3.1\HW_Money_Wallet.exe
+C:\Projekty\HW_Money_Wallet\HW_Money_Wallet\bin\Debug\netcoreapp3.1\HW_Money_Wallet.deps.json
+C:\Projekty\HW_Money_Wallet\HW_Money_Wallet\bin\Debug\netcoreapp3.1\HW_Money_Wallet.runtimeconfig.json
+C:\Projekty\HW_Money_Wallet\HW_Money_Wallet\bin\Debug\netcoreapp3.1\HW_Money_Wallet.runtimeconfig.dev.json
+C:\Projekty\HW_Money_Wallet\HW_Money_Wallet\bin\Debug\netcoreapp3.1\HW_Money_Wallet.dll
+C:\Projekty\HW_Money_Wallet\HW_Money_Wallet\bin\Debug\netcoreapp3.1\HW_Money_Wallet.pdb
+C:\Projekty\HW_Money_Wallet\HW_Money_Wallet\obj\Debug\netcoreapp3.1\HW_Money_Wallet.csprojAssemblyReference.cache
+C:\Projekty\HW_Money_Wallet\HW_Money_Wallet\obj\Debug\netcoreapp3.1\HW_Money_Wallet.AssemblyInfoInputs.cache
+C:\Projekty\HW_Money_Wallet\HW_Money_Wallet\obj\Debug\netcoreapp3.1\HW_Money_Wallet.AssemblyInfo.cs
+C:\Projekty\HW_Money_Wallet\HW_Money_Wallet\obj\Debug\netcoreapp3.1\HW_Money_Wallet.csproj.CoreCompileInputs.cache
+C:\Projekty\HW_Money_Wallet\HW_Money_Wallet\obj\Debug\netcoreapp3.1\HW_Money_Wallet.dll
+C:\Projekty\HW_Money_Wallet\HW_Money_Wallet\obj\Debug\netcoreapp3.1\HW_Money_Wallet.pdb
+C:\Projekty\HW_Money_Wallet\HW_Money_Wallet\obj\Debug\netcoreapp3.1\HW_Money_Wallet.genruntimeconfig.cache
