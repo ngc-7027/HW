@@ -11,7 +11,7 @@ namespace HW_Random_Generator
 
             for (int i = 0; i < count; i++)
             {
-                randNumbers[i] = rand.Next(minValue, maxValue);
+                randNumbers[i] = rand.Next(minValue, maxValue + 1);
             }
 
             return randNumbers;
