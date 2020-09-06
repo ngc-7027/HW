@@ -1,0 +1,13 @@
+C:\Projekty\HW\HW_Shape\HW_Shape\bin\Debug\netcoreapp3.1\HW_Shape.exe
+C:\Projekty\HW\HW_Shape\HW_Shape\bin\Debug\netcoreapp3.1\HW_Shape.deps.json
+C:\Projekty\HW\HW_Shape\HW_Shape\bin\Debug\netcoreapp3.1\HW_Shape.runtimeconfig.json
+C:\Projekty\HW\HW_Shape\HW_Shape\bin\Debug\netcoreapp3.1\HW_Shape.runtimeconfig.dev.json
+C:\Projekty\HW\HW_Shape\HW_Shape\bin\Debug\netcoreapp3.1\HW_Shape.dll
+C:\Projekty\HW\HW_Shape\HW_Shape\bin\Debug\netcoreapp3.1\HW_Shape.pdb
+C:\Projekty\HW\HW_Shape\HW_Shape\obj\Debug\netcoreapp3.1\HW_Shape.csprojAssemblyReference.cache
+C:\Projekty\HW\HW_Shape\HW_Shape\obj\Debug\netcoreapp3.1\HW_Shape.AssemblyInfoInputs.cache
+C:\Projekty\HW\HW_Shape\HW_Shape\obj\Debug\netcoreapp3.1\HW_Shape.AssemblyInfo.cs
+C:\Projekty\HW\HW_Shape\HW_Shape\obj\Debug\netcoreapp3.1\HW_Shape.csproj.CoreCompileInputs.cache
+C:\Projekty\HW\HW_Shape\HW_Shape\obj\Debug\netcoreapp3.1\HW_Shape.dll
+C:\Projekty\HW\HW_Shape\HW_Shape\obj\Debug\netcoreapp3.1\HW_Shape.pdb
+C:\Projekty\HW\HW_Shape\HW_Shape\obj\Debug\netcoreapp3.1\HW_Shape.genruntimeconfig.cache
