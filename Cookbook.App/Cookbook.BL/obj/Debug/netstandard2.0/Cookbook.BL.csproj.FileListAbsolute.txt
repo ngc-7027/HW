@@ -1,0 +1,12 @@
+C:\Projekty\HW\Cookbook.App\Cookbook.BL\bin\Debug\netstandard2.0\Cookbook.BL.deps.json
+C:\Projekty\HW\Cookbook.App\Cookbook.BL\bin\Debug\netstandard2.0\Cookbook.BL.dll
+C:\Projekty\HW\Cookbook.App\Cookbook.BL\bin\Debug\netstandard2.0\Cookbook.BL.pdb
+C:\Projekty\HW\Cookbook.App\Cookbook.BL\bin\Debug\netstandard2.0\Cookbook.DAL.dll
+C:\Projekty\HW\Cookbook.App\Cookbook.BL\bin\Debug\netstandard2.0\Cookbook.DAL.pdb
+C:\Projekty\HW\Cookbook.App\Cookbook.BL\obj\Debug\netstandard2.0\Cookbook.BL.csprojAssemblyReference.cache
+C:\Projekty\HW\Cookbook.App\Cookbook.BL\obj\Debug\netstandard2.0\Cookbook.BL.AssemblyInfoInputs.cache
+C:\Projekty\HW\Cookbook.App\Cookbook.BL\obj\Debug\netstandard2.0\Cookbook.BL.AssemblyInfo.cs
+C:\Projekty\HW\Cookbook.App\Cookbook.BL\obj\Debug\netstandard2.0\Cookbook.BL.csproj.CoreCompileInputs.cache
+C:\Projekty\HW\Cookbook.App\Cookbook.BL\obj\Debug\netstandard2.0\Cookbook.BL.csproj.CopyComplete
+C:\Projekty\HW\Cookbook.App\Cookbook.BL\obj\Debug\netstandard2.0\Cookbook.BL.dll
+C:\Projekty\HW\Cookbook.App\Cookbook.BL\obj\Debug\netstandard2.0\Cookbook.BL.pdb

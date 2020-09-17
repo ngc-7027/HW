@@ -1,0 +1,9 @@
+C:\Projekty\HW\Cookbook.App\Cookbook.DAL\bin\Debug\netstandard2.0\Cookbook.DAL.deps.json
+C:\Projekty\HW\Cookbook.App\Cookbook.DAL\bin\Debug\netstandard2.0\Cookbook.DAL.dll
+C:\Projekty\HW\Cookbook.App\Cookbook.DAL\bin\Debug\netstandard2.0\Cookbook.DAL.pdb
+C:\Projekty\HW\Cookbook.App\Cookbook.DAL\obj\Debug\netstandard2.0\Cookbook.DAL.csprojAssemblyReference.cache
+C:\Projekty\HW\Cookbook.App\Cookbook.DAL\obj\Debug\netstandard2.0\Cookbook.DAL.AssemblyInfoInputs.cache
+C:\Projekty\HW\Cookbook.App\Cookbook.DAL\obj\Debug\netstandard2.0\Cookbook.DAL.AssemblyInfo.cs
+C:\Projekty\HW\Cookbook.App\Cookbook.DAL\obj\Debug\netstandard2.0\Cookbook.DAL.csproj.CoreCompileInputs.cache
+C:\Projekty\HW\Cookbook.App\Cookbook.DAL\obj\Debug\netstandard2.0\Cookbook.DAL.dll
+C:\Projekty\HW\Cookbook.App\Cookbook.DAL\obj\Debug\netstandard2.0\Cookbook.DAL.pdb

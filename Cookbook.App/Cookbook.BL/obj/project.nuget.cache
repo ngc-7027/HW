@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "h7qvcDeYQ7kLHv3yOfUcORIFoYRVE7yEfrqfH0MeRnb5XzyO0AS9ORHCKHYaItIk3xdZTShOKdoQcPzZ4TGK/w==",
+  "success": true,
+  "projectFilePath": "C:\\Projekty\\HW\\Cookbook.App\\Cookbook.BL\\Cookbook.BL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
