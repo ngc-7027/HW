@@ -15,9 +15,22 @@
           "bin/placeholder/Cookbook.BL.dll": {}
         }
       },
+      "Cookbook.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Cookbook.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Cookbook.Common.dll": {}
+        }
+      },
       "Cookbook.DAL/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Cookbook.Common": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Cookbook.DAL.dll": {}
         },
@@ -33,6 +46,11 @@
       "path": "../Cookbook.BL/Cookbook.BL.csproj",
       "msbuildProject": "../Cookbook.BL/Cookbook.BL.csproj"
     },
+    "Cookbook.Common/1.0.0": {
+      "type": "project",
+      "path": "../Cookbook.Common/Cookbook.Common.csproj",
+      "msbuildProject": "../Cookbook.Common/Cookbook.Common.csproj"
+    },
     "Cookbook.DAL/1.0.0": {
       "type": "project",
       "path": "../Cookbook.DAL/Cookbook.DAL.csproj",
@@ -41,7 +59,8 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Cookbook.BL >= 1.0.0"
+      "Cookbook.BL >= 1.0.0",
+      "Cookbook.Common >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -76,6 +95,9 @@
           "projectReferences": {
             "C:\\Projekty\\HW\\Cookbook.App\\Cookbook.BL\\Cookbook.BL.csproj": {
               "projectPath": "C:\\Projekty\\HW\\Cookbook.App\\Cookbook.BL\\Cookbook.BL.csproj"
+            },
+            "C:\\Projekty\\HW\\Cookbook.App\\Cookbook.Common\\Cookbook.Common.csproj": {
+              "projectPath": "C:\\Projekty\\HW\\Cookbook.App\\Cookbook.Common\\Cookbook.Common.csproj"
             }
           }
         }

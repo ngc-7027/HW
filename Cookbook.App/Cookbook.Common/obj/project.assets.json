@@ -25,29 +25,6 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
-      },
-      "Cookbook.Common/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "compile": {
-          "bin/placeholder/Cookbook.Common.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Cookbook.Common.dll": {}
-        }
-      },
-      "Cookbook.DAL/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Cookbook.Common": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Cookbook.DAL.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Cookbook.DAL.dll": {}
-        }
       }
     }
   },
@@ -194,21 +171,10 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
-    },
-    "Cookbook.Common/1.0.0": {
-      "type": "project",
-      "path": "../Cookbook.Common/Cookbook.Common.csproj",
-      "msbuildProject": "../Cookbook.Common/Cookbook.Common.csproj"
-    },
-    "Cookbook.DAL/1.0.0": {
-      "type": "project",
-      "path": "../Cookbook.DAL/Cookbook.DAL.csproj",
-      "msbuildProject": "../Cookbook.DAL/Cookbook.DAL.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "Cookbook.DAL >= 1.0.0",
       "NETStandard.Library >= 2.0.3"
     ]
   },
@@ -219,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projekty\\HW\\Cookbook.App\\Cookbook.BL\\Cookbook.BL.csproj",
-      "projectName": "Cookbook.BL",
-      "projectPath": "C:\\Projekty\\HW\\Cookbook.App\\Cookbook.BL\\Cookbook.BL.csproj",
+      "projectUniqueName": "C:\\Projekty\\HW\\Cookbook.App\\Cookbook.Common\\Cookbook.Common.csproj",
+      "projectName": "Cookbook.Common",
+      "projectPath": "C:\\Projekty\\HW\\Cookbook.App\\Cookbook.Common\\Cookbook.Common.csproj",
       "packagesPath": "C:\\Users\\trcko\\.nuget\\packages\\",
-      "outputPath": "C:\\Projekty\\HW\\Cookbook.App\\Cookbook.BL\\obj\\",
+      "outputPath": "C:\\Projekty\\HW\\Cookbook.App\\Cookbook.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -241,11 +207,7 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {
-            "C:\\Projekty\\HW\\Cookbook.App\\Cookbook.DAL\\Cookbook.DAL.csproj": {
-              "projectPath": "C:\\Projekty\\HW\\Cookbook.App\\Cookbook.DAL\\Cookbook.DAL.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
