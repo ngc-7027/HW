@@ -1,4 +1,4 @@
-﻿using System;
+﻿using System; // komentar vytvoreny jako zmena souboru pri samostudiu githubu
 
 namespace HW_Money_Wallet
 {
