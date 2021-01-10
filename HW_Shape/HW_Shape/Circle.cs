@@ -1,4 +1,4 @@
-﻿using System;
+﻿using System; // Ble bla ... zkouska
 
 namespace HW_Shape
 {
