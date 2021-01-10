@@ -1,4 +1,4 @@
-﻿using System;
+﻿using System; // zkouska
 
 namespace HW_Money_Wallet
 {
